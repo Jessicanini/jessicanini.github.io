@@ -4,7 +4,7 @@ title: '欢迎来到盒马鲜生'
 date: 2018-09-16
 author: Jessica
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: '../assets/1cover.jpg'
 tags: Jessica
 ---
 
