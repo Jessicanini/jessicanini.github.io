@@ -2,10 +2,10 @@
 layout: post
 title: '欢迎来到盒马鲜生'
 date: 2018-09-16
-author: Jekyll
+author: Jessica
 color: rgb(255,210,32)
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+tags: Jessica
 ---
 
 > [盒马鲜生](https://www.freshhema.com) 是阿里巴巴集团旗下，以数据和技术驱动的新零售平台。盒马希望为消费者打造社区化的一站式新零售体验中心，用科技和人情味带给人们“鲜美生活”。
@@ -18,6 +18,8 @@ tags: jekyll
 
 我们在海鲜吧挑选了波士顿龙虾，黄金蟹，七彩贝和黑蛤蜊，然后去加工处，排队处会有人给你发小纸条告诉你有哪些烹饪方法可以选择，我们选择了蒜蓉粉丝蒸，白灼，葱油和葱姜炒。
 付账的时候要用盒马的APP，绑定的是支付宝付账，新人可以拿一些优惠券。然后会打印出一张小票交给你，最后印有条码，可以再取餐的机器上刷出取菜的条码，凭借条码最后取餐，或者还会有广播叫你取餐或者是电话语音通知的方式。
+![1]({{site.baseurl}}/assets/1.jpg)
+
 
 ### 水果与小食
 
