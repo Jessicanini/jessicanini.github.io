@@ -1,31 +1,38 @@
 ---
 layout: post
-title: 'Hello Jekyll'
-date: 2017-04-18
+title: '欢迎来到盒马鲜生'
+date: 2018-09-16
 author: Jekyll
 color: rgb(255,210,32)
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: jekyll
 ---
 
-> Transform your plain text into static websites and blogs.
+> [盒马鲜生](https://www.freshhema.com) 是阿里巴巴集团旗下，以数据和技术驱动的新零售平台。盒马希望为消费者打造社区化的一站式新零售体验中心，用科技和人情味带给人们“鲜美生活”。
 
-# Welcome
+## 2018年9月16日周末事记
 
-## Welcome
+本周末我们来到了盒马鲜生杭州解百店吃海鲜，之前是被同学在pyg晒的照片吸引的，就希望去吃一次海鲜，趁着刚开学还比较有心情和时间，就去了解百店吃了一顿海鲜。
 
-### Welcome
+### 海鲜与生鲜
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+我们在海鲜吧挑选了波士顿龙虾，黄金蟹，七彩贝和黑蛤蜊，然后去加工处，排队处会有人给你发小纸条告诉你有哪些烹饪方法可以选择，我们选择了蒜蓉粉丝蒸，白灼，葱油和葱姜炒。
+付账的时候要用盒马的APP，绑定的是支付宝付账，新人可以拿一些优惠券。然后会打印出一张小票交给你，最后印有条码，可以再取餐的机器上刷出取菜的条码，凭借条码最后取餐，或者还会有广播叫你取餐或者是电话语音通知的方式。
 
-### So what is Jekyll, exactly?Permalink
+Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and ourrenderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+### 水果与小食
 
-### Helpful HintsPermalink
+除去比较大面积的海鲜生鲜区域外还有超市，里面水果零食酒水等等一应俱全，和普通超市没什么区别，我们在那里选择了一个水果拼盘，有凤梨，车厘子，哈密瓜和红心火龙果，是现切出来的，
+也还是新鲜划算的。在卖场里还有一些烘焙店和移动摊点，售卖一些饮料和糕点，比如华夫饼，杨枝甘露，现烤月饼（中秋节将至）等等，我们买了一些月饼和橙汁，沙棘汁。
 
-Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
 
-### Video Test
+### 主食与熟食
+
+在现场烹饪海鲜吧旁边，还有加工好的海鲜可以购买，有扇贝，鱿鱼，大虾，海鲜炒饭等等，我们在这里买了一些鱿鱼和扇贝。旁边有我爱吃的主食嘻嘻嘻，我点了一份顾一碗的笋丁烧麦。
+商场里也有类似彼得家厨房这样的牛排先做的区域，我们点了一份草饲肉眼牛排，考好以后加了盐恶黑胡椒，吃起来也是不错。对了，还有一些港式点心店和烧腊店，我们点了一份烧味双拼，
+是叉烧拼烧鹅饭。
+
+
 
 <iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
