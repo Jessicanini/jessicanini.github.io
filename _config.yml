@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'your awesome title'
+title: 'Jessicanini website'
 description: 'your web description'
 keywords: 'your web keywords, another keywords'
 url: 'https://jessicanini.github.io/jessicanini.github.io' # your host
@@ -14,12 +14,12 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+name: 'Jessicanini'
+NickName: 'Jessicanini'
+webtitle: 'Jessicanini webtitle'
+bio: 'Jessicanini bio'
 about: true
-aboutyou: 'your introduction'
+aboutyou: 'A Scorpio girl'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
