@@ -19,8 +19,6 @@ tags: jekyll
 我们在海鲜吧挑选了波士顿龙虾，黄金蟹，七彩贝和黑蛤蜊，然后去加工处，排队处会有人给你发小纸条告诉你有哪些烹饪方法可以选择，我们选择了蒜蓉粉丝蒸，白灼，葱油和葱姜炒。
 付账的时候要用盒马的APP，绑定的是支付宝付账，新人可以拿一些优惠券。然后会打印出一张小票交给你，最后印有条码，可以再取餐的机器上刷出取菜的条码，凭借条码最后取餐，或者还会有广播叫你取餐或者是电话语音通知的方式。
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and ourrenderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
-
 ### 水果与小食
 
 除去比较大面积的海鲜生鲜区域外还有超市，里面水果零食酒水等等一应俱全，和普通超市没什么区别，我们在那里选择了一个水果拼盘，有凤梨，车厘子，哈密瓜和红心火龙果，是现切出来的，
@@ -30,7 +28,7 @@ Jekyll is a simple, blog-aware, static site generator. It takes a template direc
 ### 主食与熟食
 
 在现场烹饪海鲜吧旁边，还有加工好的海鲜可以购买，有扇贝，鱿鱼，大虾，海鲜炒饭等等，我们在这里买了一些鱿鱼和扇贝。旁边有我爱吃的主食嘻嘻嘻，我点了一份顾一碗的笋丁烧麦。
-商场里也有类似彼得家厨房这样的牛排先做的区域，我们点了一份草饲肉眼牛排，考好以后加了盐恶黑胡椒，吃起来也是不错。对了，还有一些港式点心店和烧腊店，我们点了一份烧味双拼，
+商场里也有类似彼得家厨房这样的牛排先做的区域，我们点了一份草饲肉眼牛排，考好以后加了盐和黑胡椒，吃起来也是不错。对了，还有一些港式点心店和烧腊店，我们点了一份烧味双拼，
 是叉烧拼烧鹅饭。
 
 
